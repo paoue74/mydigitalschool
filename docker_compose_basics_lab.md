@@ -1,5 +1,3 @@
-Certainly! Here's another Docker lab exercise that goes a bit further and introduces the use of Docker Compose for managing multi-container applications.
-
 **Lab Title: Docker Compose Basics**
 
 **Objective:** Learn how to use Docker Compose to manage multi-container applications.
